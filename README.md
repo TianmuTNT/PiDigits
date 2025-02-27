@@ -39,3 +39,5 @@ This code is intended to demonstrate algorithmic concepts and is not optimized f
 
 ## Contributing  
 Feel free to open issues or submit pull requests for improvements.  
+
+![Star History Chart](https://api.star-history.com/svg?repos=TianmuTNT/PiDigits)
